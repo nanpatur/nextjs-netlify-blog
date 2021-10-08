@@ -1,19 +1,9 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
-  "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
-  ],
+  "base_url": "https://nandiraspatur.com",
+  "site_title": "Nandira Paturohman Blog",
+  "site_description": "Welcome to my personal blog",
+  "site_keywords": [],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "#",
+  "github_account": "nspatur"
 }
